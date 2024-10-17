@@ -13,27 +13,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
 
 
-## Installation
 
-1.Clone this repository to your local machine using:
-
-```bash
-  git clone https://github.com/codebasics/langchain.git
-```
-2.Navigate to the project directory:
-
-```bash
-  cd 2_news_research_tool_project
-```
-3. Install the required dependencies using pip:
-
-```bash
-  pip install -r requirements.txt
-```
-4.Set up your OpenAI API key by creating a .env file in the project root and adding your API
-
-```bash
-  OPENAI_API_KEY=your_api_key_here
 ```
 ## Usage/Examples
 
